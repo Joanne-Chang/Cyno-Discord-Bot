@@ -1,3 +1,3 @@
-# Simple-GPT3-Discord-Bot
+# "Cyno Explains the Joke" Bot
 
-Cyno Discord Bot explains the joke.
+Simple GPT Discord Bot.
