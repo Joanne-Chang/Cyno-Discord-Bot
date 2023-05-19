@@ -1,3 +1,5 @@
-# "Cyno Explains the Joke" Bot
+# Quizlet Game
 
-Simple GPT Discord Bot.
+Frontend only Quizlet game.
+
+Inspired by this: https://quizlet.com/labs/games/student-competition
